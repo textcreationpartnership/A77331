@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brethren in iniquity: Or, A beardless pair: held forth in a diaglogue betwixt Titchburn and Ireton, prisoners in the Tower of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77331</idno>
+            <idno type="STC">Wing B4381A</idno>
+            <idno type="STC">ESTC R208460</idno>
+            <idno type="EEBO-CITATION">45097573</idno>
+            <idno type="OCLC">ocm 45097573</idno>
+            <idno type="VID">171185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2566:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brethren in iniquity: Or, A beardless pair: held forth in a diaglogue betwixt Titchburn and Ireton, prisoners in the Tower of London.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Webb,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireton, John, --  Sir, 1615-1690.</term>
+               <term>Tichborne, Robert, --  Sir, d. 1682.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171185:1" rendition="simple:additions"/>
+            <p>BRETHREN in INIQUITY: OR A <hi>BEARDLESS</hi> Pair: Held forth in a DIALOGUE BETWIXT TITCHBURN AND IRETON, PRISONERS in the <hi>TOWER</hi> OF LONDON.</p>
+            <p>Printed for <hi>Daniel Webb,</hi> in the year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171185:2"/>
+            <pb n="3" facs="tcp:171185:2"/>
+            <head>A DIALOGVE BETWEEN Alderman <hi>TITCHB<g ref="char:V">Ʋ</g>RN</hi> AND Alderman <hi>IRETON, Priſoners in the</hi> Tower <hi>of London.</hi>
+            </head>
+            <sp>
+               <speaker>Titchburn.</speaker>
+               <p>LAg I, pray, play fellow, do you begin, here's a new Game called Law, and I alwayes was, and could ſtill wiſh my ſelf a ſtranger to it.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>Sir, this is no Pageant or Boys play, the Bowling ſtone of the State is ſettled, and you are nickt; beſides, you have been prime, and a Ring-lea<g ref="char:EOLhyphen"/>der, and have had a lucky hand on't theſe many years, what aile you to hang ſo a Rump.</p>
+            </sp>
+            <pb n="4" facs="tcp:171185:3"/>
+            <sp>
+               <speaker>Titchburn.</speaker>
+               <p>I perceive you are not ſenſible of the Condition you are in, that you enquire ſo idlely after my grief; you think you were Cock a horſe, or a Beggar mounted with a fools Baubles in the Portman<g ref="char:EOLhyphen"/>teau, and that being the utmoſt end of your ambi<g ref="char:EOLhyphen"/>tious Coxcomb, which you have attained to; you think not of the troubles of the Saints (the Juſtice of the Kingdom) but think to eſcape with an <hi>Ignora<g ref="char:EOLhyphen"/>mus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>I am no Lord like your Honour, to be tryed by my Peers, I do not hope nor imagine to be ac<g ref="char:EOLhyphen"/>quitted by any wiſe Jury; and therefore I am the leſs penſive and melancholly at this diſaſter, wherein I think I ſhew my ſelf wifer then your yeſterday Lord<g ref="char:EOLhyphen"/>ſhip, for my wiſdome is from the Antients that teach men (as Dogs are learned) Patience.</p>
+            </sp>
+            <sp>
+               <speaker>Titchburn.</speaker>
+               <p>My good Lord, be not offended at my ſnarling, I confeſs Patience upon force, is a remedy for a Phanatique; but we fellow-ſufferers ought not to exaſperate one another, I know our zeal is quickly kindled, but now there wants oyl in our Lamp (here in the way to <hi>Canaan,</hi> I could hint to you his late Highneſs <hi>Oliver</hi>'s Noſe) we ought in Charity of Bre<g ref="char:EOLhyphen"/>thren, and fellow-labourers, to take care that the ſnuff may not ſtink in the Noſtrils of the Heathen; by our own blowing out the once bright flame of our Purity and Honeſty.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>My Lord, fools ſpeak truth (I underſtand you never took me for any thing elſe) your Apiſh Government of the City, your ſevere Diſcipline of the Herb-women and Haglers, made me ſo Pragmati<g ref="char:EOLhyphen"/>cal; for as the times went, the Affairs of the State
+<pb n="5" facs="tcp:171185:3"/>were mannaged juſt like a Market, nothing but for money, and my Majoralty fell in ſuch a year, ſo many Alterations and Changes in my ſhort rule, that I knew not where abouts to be; they ſay I was Lord Maior, but in truth I was Clerk of the Market to <hi>Wallingford</hi>-Houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Titchburn.</speaker>
+               <p>I, Brother <hi>Ireton,</hi> had that noble Council of Officers endured that ſhitten ſtorm of <hi>Hazleriggs,</hi> (for which wicked enterpriſe he is ready to hang him<g ref="char:EOLhyphen"/>ſelf) you and I had been Canting ſtill of the merits of the <hi>Good Old Cauſe,</hi> with abundance of Credit and Reputation, and I would have filcht Expreſſions of Piety from unknown unheard of Authors, and you ſhould have borrowed as many from Mr. <hi>Griffith</hi> of the <hi>Charter-houſe;</hi> I wonder who hath beſpewed (or be<g ref="char:EOLhyphen"/>ſhit rather) all our Glory, as he ſaid in the laſt Sermon before you at <hi>Pauls.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>You will be a Cynick ſtill, and rode and bite at your friends, as well as your fetters; the firſt are as willing to be rid of you, as you are of the other (and it is the general vogue, you will be rid of both toge<g ref="char:EOLhyphen"/>ther, elſe <hi>Dun</hi> is abuſed.)</p>
+            </sp>
+            <sp>
+               <speaker>Titchburn.</speaker>
+               <p>I am ſorry I did not put that fellow out of that Employment, he fell once into my handling, for not burning a fellow ſoundly, according to my Or<g ref="char:EOLhyphen"/>der; but he found favour from me by an humble Pe<g ref="char:EOLhyphen"/>tition, yet he look'd ſo diſaſtrouſly upon me, when he put it into my hand, that I am more then ſuſpicious he will throroughly burn me, Bowels and all.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>My Lord, you burnt with your own hands the Kings Declaration from <hi>Worceſter,</hi> and the Hang<g ref="char:EOLhyphen"/>man through your hot zeal loſt his labour, in common
+<pb n="6" facs="tcp:171185:4"/>Juſtice, therefore it is requiſite that he ſhould have right done him; and that he ſhould make up his dayes work with ſome employment about your Lordſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>Bro. <hi>Ireton,</hi> I writ a godly book called <hi>A Cluſter of Grapes,</hi> the Title was Ominous, and ſerves the turn; for we Canaanites will like good fellows hang together in bunches.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>Pardon me, I'le rather ſtay here till Au<g ref="char:EOLhyphen"/>tumn, and taſte ſome of the ſowre Grapes that grow upon theſe walls; by your favour, I am not ſo far in the mire as your ſelf, and I have got little elſe beſides an ill name, and that partly I had from my Brother the Devils Deputy in <hi>Ireland:</hi> Sir an ill name, is by the Proverb, but half hanging.</p>
+            </sp>
+            <sp>
+               <speaker>Titchb</speaker>
+               <p>Were not you a Colonel of Horſe, were not you like to be Lord Major twice, do you think to have theſe Honours for nothing? beſides, did not you cheat the State of the Cuſtomes, for the whole ſpace of a moneth? Sir, you are in the ſame Predicament as <hi>Pennington, Harvay,</hi> and my ſelf: But ſuppoſe you had not wit enough of your own to compaſs an Eſtate, yet Sir, you ſhall anſwer for the Portion you had with your fiſt Wife, which was got by roaſting of Brooms for the Servants on <hi>Sunday</hi> nights.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>Nay, if you be thereabouts with <hi>Tom Prides</hi> Bears, and have the faculty of railing (as <hi>Oliver</hi> had of ſwearing, when he was angry) its time to take you down, or truſs you up: what think you of Mr. <hi>Winduſt:</hi> Sir, were not you the great overſeer of the Ale-Hou<g ref="char:EOLhyphen"/>ſes, the Pot informer, the Bawds and Whores Secre<g ref="char:EOLhyphen"/>tary, the great Caball of all the lewdneſs in the Town; for all your ſtarcht grave ſuperciliouſneſs?
+<pb n="7" facs="tcp:171185:4"/>was not your <hi>Privado</hi> your familiar Mr. <hi>Bunbury,</hi> a fine Companion for an Alderman? Have you not a per<g ref="char:EOLhyphen"/>fect L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt of all the ſmug young Auxiliaries in the Town, which folks ſtick not to ſay is high Treaſon a<g ref="char:EOLhyphen"/>gainſt the Female Sex; nay Sir, were not you Preſi<g ref="char:EOLhyphen"/>dent of the New Artillery Company in <hi>Finsbury,</hi> and did you not continue ſo till they were ſo weary of you, and your ſolemn impertinencies, that they formally diſowned and abhorred you?</p>
+            </sp>
+            <sp>
+               <speaker>Titchb.</speaker>
+               <p>Good Sir, what think you (if you ſhun perchance the Gallows, as you vainly promiſe your ſelf, for you are a miſcheivous fool none of Gods making) of your riotous attempt upon the Liberties of the <hi>Fleet</hi>-Priſon) did not you pimp and peep to into Bawdy-houſes in that Lane under pretence of your power of Juriſdiction there? who pays for thoſe Eſcapes there? in troth Sir, we both lack ſuch a ventu<g ref="char:EOLhyphen"/>rous Lord Maior as your ſelf, for this Liberty of the <hi>Tower;</hi> for then we would both run away together, though I cannot tell whether except to <hi>Jamaica;</hi> for there's no other Harbour or Sanctuary for us in any part of the world, our Faction and party are ſo known and deteſted.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>What a Curſe and misfortune attends us, we cannot have a word or two, but preſently we muſt to<g ref="char:EOLhyphen"/>gether by the ears, and rip up things like <hi>Billingſgate,</hi> this very trick ruined the <hi>Rump</hi> and <hi>Lambert,</hi> and our whole Gang; but yet now you are ſpeaking of getting out hence, I can be friends with you with all my heart, I ſuppoſe you know ſome private houſe where we may lye ſecure till we have a fair wind, it is high time to conſider of it, e're the King come, for he will be
+<pb n="8" facs="tcp:171185:5"/>ſtrongly importuned for juſtice againſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Tichb.</speaker>
+               <p>But how ſhall we get out hence, now <hi>Morley</hi> is not Lieutenant of the <hi>Tower;</hi> and for my own part, I can find no more Connivence or Favour, then if I had never bore Authority here.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>My Lord, it is unlucky returning over the mud in the Moat, for then we ſhall be caught again, what think you of a Diſguiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Titchb.</speaker>
+               <p>Very well, but what, they ſay I am as noto<g ref="char:EOLhyphen"/>rious as <hi>Miles Corbet</hi> the Jew, but tell me what Diſ<g ref="char:EOLhyphen"/>guiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>I know you are well-beloved of the Herb-women, in your New Market in <hi>Pauls Church</hi>-yard; and therefore I would adviſe you to ſend thither for a bunch of Carrots to make you a Beard, and on my life that will carry it.</p>
+            </sp>
+            <sp>
+               <speaker>Titchb.</speaker>
+               <p>I thank you Sir, I can help you to ſuch a<g ref="char:EOLhyphen"/>nother Maſquing buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>What's that?</p>
+            </sp>
+            <sp>
+               <speaker>Titchb.</speaker>
+               <p>
+                  <hi>Mol Cutpurſes</hi> Falling Band, Doublet and Petty-coats, in which ſhe lookt like a man, that the guard will never take you for.</p>
+            </sp>
+            <sp>
+               <speaker>Ireton.</speaker>
+               <p>Any way ſo we may be gone hence, do you good my Lord contrive, and I'le do as you bid me; but what ſhall we do for the brace of Five hundred pounds you and I ſent <hi>Lambert?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Titchb.</speaker>
+               <p>It is come to that paſs, that you and I muſt be loſers by the Publick Faith; they cry a riddance of us is fitter then acquittance, come <hi>Dun</hi> I am ready.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
